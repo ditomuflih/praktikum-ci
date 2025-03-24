@@ -13,5 +13,8 @@ Repository ini digunakan untuk mendokumentasikan praktik DevOps dengan GitHub, m
 ## Fitur Baru
 Menambahkan catatan hasil praktikum.
 
+## Fitur Footer
+Menambahkan simulasi fitur footer untuk tugas praktikum branching strategi.
+
 ## Simulasi Code Review
 Bagian ini ditambahkan untuk keperluan tugas 5.3 guna mensimulasikan proses pull request dan code review dengan dua akun GitHub.
